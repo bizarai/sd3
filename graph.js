@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             Transformer -> GANs [label="used in"];
             Transformer -> RAG [label="integrates with"];
             GANs -> NeRFs [label="applies to"];
-            NeRFs -> 3D_Convergence [label="advances"];
+            NeRFs -> D3_Convergence [label="advances"];
             Diffusion_Models -> High_Dimensionality [label="requires"];
             Multimodal -> High_Dimensionality [label="operates in"];
             Multimodal -> Context [label="builds"];
